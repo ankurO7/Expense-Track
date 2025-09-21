@@ -226,7 +226,7 @@ input:focus, select:focus, textarea:focus {
 }
 
 .btn-primary {
-    background: linear-gradient(135deg, #667eea, #764ba2);
+    background-image: linear-gradient(to right top, #327ce7, #009ee4, #00b3bd, #5cc094, #b2c685);
     color: white;
     padding: 15px 30px;
     border: none;
