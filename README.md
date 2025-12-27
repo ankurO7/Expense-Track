@@ -1,6 +1,6 @@
 # Expense-Track
 
-**Expense-Track** is a lightweight and intuitive web application designed to help users record and visualize their daily expenses. Built using **HTML, CSS, JavaScript**, and **Chart.js**, the application provides clear graphical insights into spending patterns, enabling users to monitor and understand their financial behavior more effectively. Its simplicity makes it suitable for personal use and for beginners learning frontend development and data visualization.
+**Expense-Track** is a lightweight and intuitive web application designed to help users record and visualize their daily expenses. Built using **HTML, CSS, JavaScript**, and **Chart.js**, the application provides clear graphical insights into spending patterns, enabling users to monitor and understand their financial behavior more effectively. It's simplicity makes it suitable for personal use and for beginners learning frontend development and data visualization.
 
 ---
 
